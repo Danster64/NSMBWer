@@ -1,4 +1,5 @@
 # NSMBWer
+Please note that NSMBWer is outdated, please use [NSMBWer+][plus] instead.
 ## Source Code Public Release
 
 ### Introduction
@@ -104,3 +105,6 @@ Other Stuff includes, well, other stuff:
 * ISO Builder XML (for patching main.dol)
 * ObjectPatch (modified Object files for use as a template, some retail levels will still crash due to Nintendo leaving unused nybbles set)
 * ReggiePatch (a Reggie patch based on the NewerSMBW one)
+
+[plus]:
+https://github.com/Ryguy0777/NSMBWerPlus
